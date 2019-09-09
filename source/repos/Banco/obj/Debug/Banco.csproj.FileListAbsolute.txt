@@ -7,5 +7,4 @@ C:\Users\pedro.dantas\source\repos\Banco\obj\Debug\Banco.csproj.GenerateResource
 C:\Users\pedro.dantas\source\repos\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
 C:\Users\pedro.dantas\source\repos\Banco\obj\Debug\Banco.exe
 C:\Users\pedro.dantas\source\repos\Banco\obj\Debug\Banco.pdb
-C:\Users\pedro.dantas\source\repos\Banco\obj\Debug\Banco.Banco.resources
 C:\Users\pedro.dantas\source\repos\Banco\obj\Debug\Banco.Form1.resources
